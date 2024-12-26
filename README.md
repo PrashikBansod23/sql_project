@@ -1,2 +1,2 @@
 # sql_project
-nakln lggadg
+this is sql end to end project
